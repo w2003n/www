@@ -8,6 +8,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println("dfdfdfdfdfdfddfdf");
+        System.out.println("master01");
+        System.out.println("dev01");
     }
 }

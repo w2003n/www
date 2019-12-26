@@ -4,6 +4,7 @@ public class GetOne {
     public String getOne(){
         System.out.println("dfdfdfdfdfdfdf");
         System.out.println("呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵呵");
+        System.out.println("qwertyuiopasdfghjklzxcvbnm");
         return "dfdf";
     }
 }
